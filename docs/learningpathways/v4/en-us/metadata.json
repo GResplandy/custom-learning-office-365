@@ -166,15 +166,15 @@
   "Categories": [
     {
       "Id": "646b4eb4-32c0-4fdc-93fa-0ef895470b74",
-      "Name": "Get started",
+      "Name": "On Boarding",
       "Image": "",
       "TechnologyId": "",
       "SubjectId": "",
-      "Source": "Microsoft",
+      "Source": "Green City",
       "SubCategories": [
         {
-          "Id": "9bde32c3-2f0b-4201-b4a3-74cef2c8f61d",
-          "Name": "First days",
+          "Id": "8d926275-7a79-42c5-9151-d674f7850cd2",
+          "Name": "What is das ERP?",
           "Image": "images/categories/first_days.png",
           "TechnologyId": "",
           "SubjectId": "",
@@ -182,8 +182,26 @@
           "SubCategories": []
         },
         {
-          "Id": "07aa7fb7-a187-4a04-a044-f881626a8cba",
-          "Name": "Recommended",
+          "Id": "ee4634cf-866c-4903-a44c-180f3be2cd55",
+          "Name": "Wer kann mir helfen?",
+          "Image": "images/categories/recommended.png",
+          "TechnologyId": "",
+          "SubjectId": "",
+          "Source": "Microsoft",
+          "SubCategories": []
+        },
+        {
+          "Id": "045fd3ce-6df1-486a-af76-51f119b6f4a9",
+          "Name": "Wie komme ich dahin?",
+          "Image": "images/categories/recommended.png",
+          "TechnologyId": "",
+          "SubjectId": "",
+          "Source": "Microsoft",
+          "SubCategories": []
+        },
+        {
+          "Id": "5e14aca4-53e7-446d-a174-46ca855488bc",
+          "Name": "Wie kann ich die Seiten konfigurieren?",
           "Image": "images/categories/recommended.png",
           "TechnologyId": "",
           "SubjectId": "",
