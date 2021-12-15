@@ -95,7 +95,7 @@
           "Image": "images/categories/recommended.png",
           "TechnologyId": "",
           "SubjectId": "",
-          "Source": "Microsoft",
+          "Source": "Green City",
           "SubCategories": []
         },
         {
@@ -104,7 +104,7 @@
           "Image": "images/categories/recommended.png",
           "TechnologyId": "",
           "SubjectId": "",
-          "Source": "Microsoft",
+          "Source": "Green City",
           "SubCategories": []
         },
         {
@@ -113,7 +113,7 @@
           "Image": "images/categories/recommended.png",
           "TechnologyId": "",
           "SubjectId": "",
-          "Source": "Microsoft",
+          "Source": "Green City",
           "SubCategories": []
         }
       ]
@@ -124,7 +124,7 @@
       "Image": "",
       "TechnologyId": "",
       "SubjectId": "",
-      "Source": "Microsoft",
+      "Source": "Green City",
       "SubCategories": [
         {
           "Id": "0973be85-1ac4-46a5-ab3a-f80b231aa759",
@@ -141,7 +141,7 @@
           "Image": "images/categories/work_remotely.png",
           "TechnologyId": "",
           "SubjectId": "",
-          "Source": "Microsoft",
+          "Source": "Green City",
           "SubCategories": []
         },
         {
@@ -150,7 +150,7 @@
           "Image": "images/categories/LP-security-subcategory.png",
           "TechnologyId": "e75b9087-6bb2-417f-a696-e667bea533a7",
           "SubjectId": "",
-          "Source": "Microsoft",
+          "Source": "Green City",
           "SubCategories": []
         },
         {
@@ -159,7 +159,7 @@
           "Image": "images/categories/hybridwork.png",
           "TechnologyId": "e75b9087-6bb2-417f-a696-e667bea533a7",
           "SubjectId": "",
-          "Source": "Microsoft",
+          "Source": "Green City",
           "SubCategories": []
         },
         {
@@ -168,7 +168,7 @@
           "Image": "images/categories/accessibility.png",
           "TechnologyId": "",
           "SubjectId": "",
-          "Source": "Microsoft",
+          "Source": "Green City",
           "SubCategories": []
         }
       ]
@@ -196,7 +196,7 @@
           "Image": "images/categories/word.png",
           "TechnologyId": "0eb89b8a-87cf-4388-b146-1e073588b029",
           "SubjectId": "",
-          "Source": "Microsoft",
+          "Source": "Green City",
           "SubCategories": []
         },
         {
@@ -205,7 +205,7 @@
           "Image": "images/categories/excel.png",
           "TechnologyId": "d3ee44dc-f4ff-424b-a3be-3580954fc479",
           "SubjectId": "",
-          "Source": "Microsoft",
+          "Source": "Green City",
           "SubCategories": []
         },
         {
@@ -214,7 +214,7 @@
           "Image": "images/categories/powerpoint.png",
           "TechnologyId": "8770a224-6b62-406f-9fd2-a51d4a8131a8",
           "SubjectId": "",
-          "Source": "Microsoft",
+          "Source": "Green City",
           "SubCategories": []
         }
       ]
